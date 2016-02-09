@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "aestheticascrip00baumgoog_0006.png"; bbox 0 0 779 1171; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 94 101 687 231">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 94 101 687 231">
+     <span class='ocr_line' id='line_1_1' title="bbox 94 101 687 231; baseline -0.01 -11"><span class='ocrx_word' id='word_1_1' title='bbox 94 144 687 231; x_wconf 82' lang='lat' dir='ltr'><strong>AESTHETICA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 636 101 687 185; x_wconf 38' lang='grc' dir='ltr'>ἲ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 314 258 431 282">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 314 258 431 282">
+     <span class='ocr_line' id='line_1_2' title="bbox 314 258 431 282; baseline -0.017 -2"><span class='ocrx_word' id='word_1_3' title='bbox 314 258 431 282; x_wconf 79' lang='lat' dir='ltr'>SSSSSSS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 125 293 688 429">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 125 293 688 429">
+     <span class='ocr_line' id='line_1_3' title="bbox 125 293 688 349; baseline -0.002 -1"><span class='ocrx_word' id='word_1_4' title='bbox 125 308 369 348; x_wconf 75' lang='lat' dir='ltr'>ALEXAND</span> <span class='ocrx_word' id='word_1_5' title='bbox 363 293 636 349; x_wconf 63' lang='lat' dir='ltr'>“GOTTLIEB</span> <span class='ocrx_word' id='word_1_6' title='bbox 687 310 688 314; x_wconf 46' lang='lat'>¹</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 213 360 618 429; baseline -0.005 -20"><span class='ocrx_word' id='word_1_7' title='bbox 213 360 595 429; x_wconf 62' lang='lat' dir='ltr'>leVMGARTEN</span> <span class='ocrx_word' id='word_1_8' title='bbox 617 396 618 399; x_wconf 14' lang='grc' dir='ltr'>η</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
